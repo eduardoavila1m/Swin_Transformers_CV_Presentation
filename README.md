@@ -1,6 +1,6 @@
 # Swin_Transformers_CV_Presentation
 
-This repository contains a presentation explaining Swin Transformers Hierchical Vision Transformer Using Shifted Windoes
+This repository contains a presentation explaining Swin Transformers Hierchical Vision Transformer Using Shifted Windows
 
 ## References
 
